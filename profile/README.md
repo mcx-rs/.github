@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are `mcx-rs`, focusing on Rust with NXP MCX series MCU.
+
 <!--
 
 **Here are some ideas to get you started:**
